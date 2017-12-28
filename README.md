@@ -13,3 +13,6 @@ In this repository you will find the material I present in the various conferenc
 I hope they are useful to you and your business.
 
 Enjoy!
+
+
+The license for all the files in this repository is the Creative Commons Attribution Share Alike 4.0 - https://choosealicense.com/licenses/cc-by-sa-4.0/
