@@ -15,4 +15,4 @@ I hope they are useful to you and your business.
 Enjoy!
 
 
-The license for all the files in this repository is the Creative Commons Attribution Share Alike 4.0 - https://choosealicense.com/licenses/cc-by-sa-4.0/
+The license for all the files in this repository is the Creative Commons Attribution Share Alike 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
