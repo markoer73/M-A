@@ -10,6 +10,8 @@ In this repository you will find the material I present in the various conferenc
 
 - ISACA CSX Europe 2017 UK: "M&A, Forgotten son of Information Security" - https://www.isaca.org/Education/Conferences/Pages/csx-europe-presentations-and-descriptions.aspx#324
 
+- CyberCentral Summit 2018, Prague, Czech Republic: "CASE STUDY: M&A is generally a matter left to Business Administration professionals, but Information Security should be sitting at the table as well" - https://cybercentral.eu/events/cybercentral/speakers/
+
 I hope they are useful to you and your business.
 
 Enjoy!
