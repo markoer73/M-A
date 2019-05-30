@@ -12,6 +12,9 @@ In this repository you will find the material I present in the various conferenc
 
 - CyberCentral Summit 2018, Prague, Czech Republic: "CASE STUDY: M&A is generally a matter left to Business Administration professionals, but Information Security should be sitting at the table as well" - https://cybercentral.eu/events/cybercentral/speakers/
 
+- ISACA.Lu Annual General Meeting 2019, Luxembourg - 29.05.2019 M&A, "Forgotten son of Information Security" - using Orange Business template - ISACA Luxembourg chapter at @ Patisserie de Namur, Rue de Bitbourg, Hamm - https://securitymadein.lu/events/isaca-lu-agm-2019-infosec-in-mergers-acquisitions/
+
+
 I hope they are useful to you and your business.
 
 Enjoy!
